@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/popover-option/static/css/main.79d19d76.css",
+    "main.js": "/popover-option/static/js/main.3a41e8d9.js",
+    "static/js/453.a5003119.chunk.js": "/popover-option/static/js/453.a5003119.chunk.js",
+    "index.html": "/popover-option/index.html",
+    "main.79d19d76.css.map": "/popover-option/static/css/main.79d19d76.css.map",
+    "main.3a41e8d9.js.map": "/popover-option/static/js/main.3a41e8d9.js.map",
+    "453.a5003119.chunk.js.map": "/popover-option/static/js/453.a5003119.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.3a41e8d9.js"
+  ]
+}
